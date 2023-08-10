@@ -3,7 +3,6 @@ A moving car with the use of CSS Animation
 
 https://github.com/Sonam-Quraishi/Moving_car_game.
 
-
 # **Prerequisites**
 
 - HTML
