@@ -1,14 +1,20 @@
-A moving car with the use of CSS Animation
-Prerequisites:
-1 HTML
-2 CSS
-3 JavaScript
+A moving car with the use of CSS Animation 
+# **Link** 
 
-Editor:
-VS code
+https://github.com/Sonam-Quraishi/Moving_car_game
 
-Extension used:
-LiveServer
+
+# **Prerequisites**
+
+- HTML
+- CSS
+- JavaScript
+
+# **Editor:**
+ - VS code
+
+# **Extension used:**
+- LiveServer
 
 
 
